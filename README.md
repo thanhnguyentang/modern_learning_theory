@@ -32,7 +32,8 @@ I mostly focus on off-policy evaluation problem.
 * Uniform convergence bounds  
 
 ## Optimization   
-* Frenchet duality  
+* Frenchet duality
+* The interchangeability principle 
 * Convex optimization  
 * Convex-concave optimization 
 
