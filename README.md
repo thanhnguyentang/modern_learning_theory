@@ -15,5 +15,5 @@
 
 # Applications 
 
-* Reinforcement Learning   
-* Off-policy evaluation and learning  
+## Off-policy evaluation   
+* [DualDICE: Behavior-Agnostic Estimation of Discounted Stationary Distribution Corrections](https://arxiv.org/abs/1906.04733): The square of an expectation in Eq. (6) is ugly and difficult to compute in practice, thus it is desirable to resolve this issue. Frenchet duality comes to the rescue by transforming such difficulty to the well-studied difficulty of convex-concave optimization. 
