@@ -37,9 +37,16 @@ I mostly focus on off-policy evaluation problem.
 * Convex optimization  
 * Convex-concave optimization 
 
-## Statistics 
+## Statistics   
+
+### [Variance reduction](http://statweb.stanford.edu/~owen/mc/)  
+* Antithetic sampling: leverage the symmetry of the density to get more error cancellation.  
+* Stratification: Split the domain of the random variable into separate regions, and take samples from each region to estimate a target quantity.  
+* Coupling (or common random numbers): One common random variable Z that generates two other random variables X and Y, so when estimate the quantity f(X,Y), it is better to generate Z first to use for both X(Z) and Y(Z).   
+* Conditioning: E[f(X,Y)] = E[h(X)] where h(X) = E[f(X,Y) | X]. 
 * [Rao-Maxwellization](https://en.wikipedia.org/wiki/Rao%E2%80%93Blackwell_theorem)  
-* [Variance reduction](http://statweb.stanford.edu/~owen/mc/) 
+* Control variates (and control variates by regression): Let's say we want to estimate E[f(X)]. If we have h ~ f and E[h(X)] is known, then h(X) is a control variate. We can construct a new estimator based on any crude estimator of E[f(X)] and the control variate. This results in a smaller variance.  
+* Moment matching and reweghting: Suppose we want to estimate E[f(X)] and we know E[X], we can use h(X) = X as control variate.  Reweighting is control variate via regression in moment matching case. 
 
 
 # Resources 
