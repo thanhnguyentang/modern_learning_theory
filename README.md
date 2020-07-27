@@ -37,6 +37,11 @@ I mostly focus on off-policy evaluation problem.
 * Convex optimization  
 * Convex-concave optimization 
 
+## Statistics 
+* [Rao-Maxwellization](https://en.wikipedia.org/wiki/Rao%E2%80%93Blackwell_theorem)  
+* [Variance reduction](http://statweb.stanford.edu/~owen/mc/) 
+
+
 # Resources 
 
 ## Courses  
