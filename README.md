@@ -35,7 +35,8 @@ I mostly focus on off-policy evaluation problem.
 * Frenchet duality
 * The interchangeability principle 
 * Convex optimization  
-* Convex-concave optimization 
+* Convex-concave optimization  
+* Min-max problem by taking a function class to be a unit ball of RKHS
 
 ## Statistics   
 
