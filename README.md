@@ -49,6 +49,13 @@ I mostly focus on off-policy evaluation problem.
 * Moment matching and reweghting: Suppose we want to estimate E[f(X)] and we know E[X], we can use h(X) = X as control variate.  Reweighting is control variate via regression in moment matching case. 
 
 
+### [Delta method](https://en.wikipedia.org/wiki/Delta_method)
+
+## Probability theory  
+* [Central limit theorem](https://en.wikipedia.org/wiki/Central_limit_theorem)  
+* [Convergence of random variables](https://en.wikipedia.org/wiki/Big_O_in_probability_notation)  
+* [Order of approximation](https://en.wikipedia.org/wiki/Convergence_of_random_variables)  
+
 # Resources 
 
 ## Courses  
