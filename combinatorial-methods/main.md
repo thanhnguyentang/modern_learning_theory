@@ -4,4 +4,7 @@ This manages my progress in reading [Combinatorial Methods in Density Estimation
 
 | Content        | Date/Deadline  | Status  |
 | ------------- |:-------------:| :----|
-| Preliminaries and Intro    | 2-8 Aug 20 | planned | 
+| Hoeffding's inequality, Chernoff's bounding methods, expected maximum deviation    | - | Done
+| Chebyshev-Cantelli inequality, Bernstein's inequality      |-| Done |
+| VC shatter coefficient, covering number, VC inequality, Dubley's chaining | -|  Done | 
+| Dvoketzky-Kiefer-Wolfowitz theorem | 2-8 Aug, 20 | planned | 
