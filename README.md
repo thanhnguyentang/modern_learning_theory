@@ -82,3 +82,5 @@ I mostly focus on off-policy evaluation problem.
 
 ### General principles  
 * When a class of methods have strikingly common elements, it could be a good time to think about a unifying view of them. 
+
+### Optimimization foundations of RL 
