@@ -1,4 +1,4 @@
-My progress in learning * [Algorithimic Foundations of Learning](http://www.stats.ox.ac.uk/~rebeschi/teaching/AFoL/19/index.html) by Patrick Rebeschini, University of Oxford   
+My progress in learning [Algorithimic Foundations of Learning](http://www.stats.ox.ac.uk/~rebeschi/teaching/AFoL/19/index.html) by Patrick Rebeschini, University of Oxford   
 
 
 **Goal**: 1 lecture/week  
