@@ -37,7 +37,7 @@ I mostly focus on off-policy evaluation problem.
 * Convex optimization  
 * Convex-concave optimization  
 * Min-max problem by taking a function class to be a unit ball of RKHS 
-* Linear programming 
+* Linear programming and duality  
 
 ## Statistics   
 
