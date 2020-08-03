@@ -5,5 +5,5 @@ My progress in learning [Algorithimic Foundations of Learning](http://www.stats.
 
 | Content        | Date/Deadline  | Status  |
 | ------------- |:-------------:| :----|
-| Preliminaries and Intro    | 2-8 Aug 20 | planned | 
-
+| Preliminaries and Intro    | 3 Aug 20 | Done | 
+| Maximal Inequality and Radermacher complexity | 3-13 Aug 20 | planned | 
