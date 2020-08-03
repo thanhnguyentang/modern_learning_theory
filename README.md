@@ -4,6 +4,8 @@
 
 The ultimate goal is to derive new efficient principled algorithms with theoretical guarantees for learning and inference problems arising from modern practical settings. There are three elements constructing the goal: (i) principled algorithms, (ii) theoretical guarantees and (iii) modern practical settings (of learning and inference). 
 
+The idea is to master foundational tools and use them to address a diverse range of modern ML problems. For me, such foundational tools are *optimization* and *probability theory*. 
+
 ## (i) Principled algorithms 
 
 * Rooted in a principled foundation such as probability theory or optimization. 
