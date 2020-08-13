@@ -7,6 +7,7 @@ This manages my progress in reading [Combinatorial Methods in Density Estimation
 | Hoeffding's inequality, Chernoff's bounding methods, expected maximum deviation    | - | Done
 | Chebyshev-Cantelli inequality, Bernstein's inequality      |-| Done |
 | VC shatter coefficient, covering number, VC inequality, Dubley's chaining | -|  Done | 
-| Dvoketzky-Kiefer-Wolfowitz theorem, Ex. 3.1, Ex. 3.2 | 2-8 Aug, 20 | planned |  
-| Chap. 4 combinatorial tools: Shatter coefficients | Aug 8-14, 20 | Planned | 
+| Dvoketzky-Kiefer-Wolfowitz theorem, Ex. 3.1, Ex. 3.2 | Aug 07, 20 | Done |  
+| Chap. 4 combinatorial tools: Shatter coefficients | Aug 13, 20 | Done | 
+| Chap. 4 combinatorial tools: VC dimemsions | Aug 13-17, 20 | **Planned** | 
 
