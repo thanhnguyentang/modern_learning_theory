@@ -7,4 +7,4 @@ My progress in learning [Algorithimic Foundations of Learning](http://www.stats.
 | ------------- |:-------------:| :----|
 | Preliminaries and Intro    | 3 Aug 20 | Done | 
 | Maximal Inequality and Radermacher complexity | 4 Aug 20 | Done | 
-| Rademacher complexity examples | 4-13 Aug 20 | planned |
+| Rademacher complexity examples | 14 Aug 20 | Done |
