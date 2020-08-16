@@ -10,3 +10,6 @@ Some of RL people who work in the intersection of optimization, statistics and R
 * [Chi Jin](https://sites.google.com/view/cjin/home)
 * [Simon Du](http://simonshaoleidu.com/index.html)  
 * [Gergely Neu](http://cs.bme.hu/~gergo/)
+
+
+RL problems: [here](https://nanjiang.cs.illinois.edu/cs598project/)
