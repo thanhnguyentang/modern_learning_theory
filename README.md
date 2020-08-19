@@ -69,6 +69,7 @@ I mostly focus on off-policy evaluation problem.
 ## Courses  
 
 * [Algorithimic Foundations of Learning](http://www.stats.ox.ac.uk/~rebeschi/teaching/AFoL/19/index.html) by Patrick Rebeschini, University of Oxford   
+* [Statistical methods for ML](http://www.stat.cmu.edu/~larry/=sml/)
 
 
 
