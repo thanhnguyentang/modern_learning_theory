@@ -5,6 +5,8 @@ My progress in learning [Algorithimic Foundations of Learning](http://www.stats.
 
 | Content        | Date/Deadline  | Status  |
 | ------------- |:-------------:| :----|
-| Preliminaries and Intro    | 3 Aug 20 | Done | 
-| Maximal Inequality and Radermacher complexity | 4 Aug 20 | Done | 
-| Rademacher complexity examples | 14 Aug 20 | Done |
+| Lecture 1: Preliminaries and Intro    | Aug 3, 2020 | Done | 
+| Lecture 2: Maximal Inequality and Radermacher complexity | Aug 4, 2020 | Done | 
+| Lecture 3: Rademacher complexity examples | Aug 14, 2020 | Done |   
+| Lecture 15: Stochastic MAB Problem and Algorithms | Aug 21, 2020 | Done |   
+| Lecture 16: Minimax lower bounds and hypothesis testing | Aug 22, 2020 | Done |
