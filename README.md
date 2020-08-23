@@ -29,9 +29,13 @@ I mostly focus on off-policy evaluation problem.
 
 ## Concentration inequalities   
 * VC shatter coefficient and VC dimension  
+* Classic concentration inequalities 
+* [Martingales](http://www.math.ucsd.edu/~fan/wp/concen.pdf)
+
 
 ## Rate of convergence   
 * Uniform convergence bounds  
+* Minimax rate of convergence 
 
 ## Optimization   
 * Frenchet duality
@@ -56,13 +60,16 @@ I mostly focus on off-policy evaluation problem.
 * Control variates (and control variates by regression): Let's say we want to estimate E[f(X)]. If we have h ~ f and E[h(X)] is known, then h(X) is a control variate. We can construct a new estimator based on any crude estimator of E[f(X)] and the control variate. This results in a smaller variance.  
 * Moment matching and reweghting: Suppose we want to estimate E[f(X)] and we know E[X], we can use h(X) = X as control variate.  Reweighting is control variate via regression in moment matching case. 
 
+### Statistical bounds  
+* [Cramer-Rao lower bounds](https://en.wikipedia.org/wiki/Cram%C3%A9r%E2%80%93Rao_bound) 
+* Minimax lower bounds 
 
 ### [Delta method](https://en.wikipedia.org/wiki/Delta_method)
 
 ## Probability theory  
 * [Central limit theorem](https://en.wikipedia.org/wiki/Central_limit_theorem)  
-* [Convergence of random variables](https://en.wikipedia.org/wiki/Big_O_in_probability_notation)  
-* [Order of approximation](https://en.wikipedia.org/wiki/Convergence_of_random_variables)  
+* [Order of approximation](https://en.wikipedia.org/wiki/Big_O_in_probability_notation)  
+* [Convergence of random variables](https://en.wikipedia.org/wiki/Convergence_of_random_variables)  
 
 # Resources 
 
@@ -73,11 +80,11 @@ I mostly focus on off-policy evaluation problem.
 
 
 
-## Books 
+## Books / Notes
 
 * [Combinatorial Methods in Density Estimation](https://link.springer.com/book/10.1007/978-1-4613-0125-7) by Luc Devroye and Gabor Lugosi.    
 * [Concentration inequalities A nonasymptotic theory of independence](https://www.oxfordscholarship.com/view/10.1093/acprof:oso/9780199535255.001.0001/acprof-9780199535255) by Stephane Boucheron, Gabor Lugosi, and Pascal Massart. 
-* [Understanding machine learning: From theory to algorithms](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf) by Shai Shalev-Shwartz and Shai Ben-David
+* [Understanding machine learning: From theory to algorithms](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf) by Shai Shalev-Shwartz and Shai Ben-David 
 
 ## Seminars  
 * [RL theory seminars](https://sites.google.com/view/rltheoryseminars/home)  
