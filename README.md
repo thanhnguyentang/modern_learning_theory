@@ -61,7 +61,7 @@ I mostly focus on off-policy evaluation problem.
 * Moment matching and reweghting: Suppose we want to estimate E[f(X)] and we know E[X], we can use h(X) = X as control variate.  Reweighting is control variate via regression in moment matching case. 
 
 ### Statistical bounds  
-* [Cramer-Rao lower bounds](https://en.wikipedia.org/wiki/Cram%C3%A9r%E2%80%93Rao_bound) 
+* Cramer-Rao lower bounds: [Wikipedia](https://en.wikipedia.org/wiki/Cram%C3%A9r%E2%80%93Rao_bound), [PhD thesis](https://drum.lib.umd.edu/bitstream/handle/1903/10290/Moore_umd_0117E_11120.pdf?sequence=1&isAllowed=y)
 * Minimax lower bounds 
 
 ### [Delta method](https://en.wikipedia.org/wiki/Delta_method)
