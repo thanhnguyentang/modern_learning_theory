@@ -88,7 +88,8 @@ I mostly focus on off-policy evaluation problem.
 * [Probability in High Dimension](https://web.math.princeton.edu/~rvan/APC550.pdf) by Ramon van Handel.
 * [Concentration inequalities A nonasymptotic theory of independence](https://www.oxfordscholarship.com/view/10.1093/acprof:oso/9780199535255.001.0001/acprof-9780199535255) by Stephane Boucheron, Gabor Lugosi, and Pascal Massart. 
 * [Understanding machine learning: From theory to algorithms](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf) by Shai Shalev-Shwartz and Shai Ben-David   
-* [A Distribution-Free Theory of Nonparametric Regression](http://www-leland.stanford.edu/class/ee378a/books/book1.pdf) by Gyorfi et al. 
+* [A Distribution-Free Theory of Nonparametric Regression](http://www-leland.stanford.edu/class/ee378a/books/book1.pdf) by Gyorfi et al.  
+* [Foundations of ML](https://pdfs.semanticscholar.org/e923/9469aba4bccf3e36d1c27894721e8dbefc44.pdf) by Mohri et al. 
 
 ### Optimization  
 * [Algorithms for convex optimization](https://convex-optimization.github.io/ACO-v1.pdf)   
