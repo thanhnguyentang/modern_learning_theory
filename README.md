@@ -90,6 +90,7 @@ I mostly focus on off-policy evaluation problem.
 * [Understanding machine learning: From theory to algorithms](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf) by Shai Shalev-Shwartz and Shai Ben-David   
 * [A Distribution-Free Theory of Nonparametric Regression](http://www-leland.stanford.edu/class/ee378a/books/book1.pdf) by Gyorfi et al.  
 * [Foundations of ML](https://pdfs.semanticscholar.org/e923/9469aba4bccf3e36d1c27894721e8dbefc44.pdf) by Mohri et al. 
+* [Probability and Measure](https://www.colorado.edu/amath/sites/default/files/attached-files/billingsley.pdf) by PATRICK BILLINGSLEY
 
 ### Optimization  
 * [Algorithms for convex optimization](https://convex-optimization.github.io/ACO-v1.pdf)   
