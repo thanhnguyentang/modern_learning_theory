@@ -102,6 +102,9 @@ I mostly focus on off-policy evaluation problem.
 ## Seminars  
 * [RL theory seminars](https://sites.google.com/view/rltheoryseminars/home)  
 
+## Events 
+* [Mathematics of ML](https://mathml2020.github.io/): LMS-Bath Symposium, 3-7 August 2020, University of Bath 
+
 ## Applications 
 
 ### Off-policy evaluation   
