@@ -29,16 +29,16 @@ In this repo, I keep track of the pointers to several important resources and no
   * Minimax rate of convergence 
 
 * Optimization   
-  * Frenchet duality
-  * The interchangeability principle 
-  * Convex optimization  
-  * Convex-concave optimization  
-  * Min-max problem by taking a function class to be a unit ball of RKHS 
-  * Linear programming and convex duality  (e.g., an example of application, this [talk](http://cs.bme.hu/~gergo/files/NPB20_s.pdf)). Convex duality is often used to reformulate an objective so that it can be represented via empirical samples. 
-    * R Tyrrell Rockafellar. Augmented Lagrange multiplier functions and duality in nonconvex programming. SIAM Journal on Control, 12(2):268–285, 1974.
-    * Convex optimization book by Rockafellar
-    * Convex analysis book by Boyd 
-    * Reinforcement Learning via Fenchel-Rockafellar Duality
+   * Frenchet duality
+   * The interchangeability principle 
+   * Convex optimization  
+   * Convex-concave optimization  
+   * Min-max problem by taking a function class to be a unit ball of RKHS 
+   * Linear programming and convex duality  (e.g., an example of application, this [talk](http://cs.bme.hu/~gergo/files/NPB20_s.pdf)). Convex duality is often used to reformulate an objective so that it can be represented via empirical samples. 
+     * R Tyrrell Rockafellar. Augmented Lagrange multiplier functions and duality in nonconvex programming. SIAM Journal on Control, 12(2):268–285, 1974.
+     * Convex optimization book by Rockafellar
+     * Convex analysis book by Boyd 
+     * Reinforcement Learning via Fenchel-Rockafellar Duality
 
 * Statistics   
   * [Variance reduction](http://statweb.stanford.edu/~owen/mc/)  
