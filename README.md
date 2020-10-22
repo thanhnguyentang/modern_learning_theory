@@ -1,7 +1,7 @@
 # Foundations of Learning and Inference (FLI)
 
 # 1. Introduction  
-In this repo, I keep track of the pointers to several important resources and notations for FLI. This is expected to be useful for self-taught learners who are bulding a mathametical backgroun for machine learning research. By foundations, I currently refer to probability theory, statistics and optimization perspectives of learning and inference (this stance can be incrementally improved in the future). The ultimate goal is to derive new efficient principled algorithms with theoretical guarantees for learning and inference problems arising from *modern* *practical* settings. To me, there are three main elements constructing the goal: (i) principled algorithms, (ii) theoretical guarantees and (iii) modern practical settings (of learning and inference). 
+In this repo, I keep track of the pointers to several important resources and notions for FLI. This is expected to be useful for self-taught learners who are bulding a mathametical backgroun for machine learning research. By foundations, I currently refer to probability theory, statistics and optimization perspectives of learning and inference (this stance can be incrementally improved in the future). The ultimate goal is to derive new efficient principled algorithms with theoretical guarantees for learning and inference problems arising from *modern* *practical* settings. To me, there are three main elements constructing the goal: (i) principled algorithms, (ii) theoretical guarantees and (iii) modern practical settings (of learning and inference). 
 
 * Principled algorithms 
   * Rooted in a principled foundation such as probability theory or optimization. 
