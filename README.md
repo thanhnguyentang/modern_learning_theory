@@ -94,3 +94,9 @@ In this repo, I keep track of the pointers to several important resources and no
 
 * General principles  
   * When a class of methods have strikingly common elements, it could be a good time to think about a unifying view of them. 
+  
+  
+* Papers
+  * [Is Temporal Difference Learning Optimal? An Instance-Dependent Analysis](https://arxiv.org/abs/2003.07337), 2020 
+  * [Instance-dependent ℓ∞-bounds for policy evaluation in tabular reinforcement learning](https://arxiv.org/abs/1909.08749), 2020 
+  * [An Almost Constant Lower Bound of the Isoperimetric Coefficient in the KLS Conjecture](https://arxiv.org/pdf/2011.13661.pdf), 2020
