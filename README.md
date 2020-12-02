@@ -100,3 +100,5 @@ In this repo, I keep track of the pointers to several important resources and no
   * [Is Temporal Difference Learning Optimal? An Instance-Dependent Analysis](https://arxiv.org/abs/2003.07337), 2020 
   * [Instance-dependent ℓ∞-bounds for policy evaluation in tabular reinforcement learning](https://arxiv.org/abs/1909.08749), 2020 
   * [An Almost Constant Lower Bound of the Isoperimetric Coefficient in the KLS Conjecture](https://arxiv.org/pdf/2011.13661.pdf), 2020
+  * [Batch Value-function Approximation with Only Realizability](https://arxiv.org/abs/2008.04990), 2020   
+  * [What are the Statistical Limits of Offline RL with Linear Function Approximation?](https://arxiv.org/pdf/2010.11895.pdf), 2020
