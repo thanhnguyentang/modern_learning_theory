@@ -64,6 +64,10 @@ In this repo, I keep track of the pointers to several important resources and no
 * Courses  
   * [Algorithimic Foundations of Learning](http://www.stats.ox.ac.uk/~rebeschi/teaching/AFoL/19/index.html) by Patrick Rebeschini, University of Oxford   
   * [Statistical methods for ML](http://www.stat.cmu.edu/~larry/=sml/)
+  * [Harvard CS 229br: Advanced Topics in the theory of machine learning](https://boazbk.github.io/mltheoryseminar/cs229br.html#plan)
+
+* Blogs: 
+  * [Windows on theory](https://windowsontheory.org/2021/04/01/robustness-in-train-and-test-time/) 
 
 * Books / Notes
   * Stats 
