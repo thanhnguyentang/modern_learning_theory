@@ -50,6 +50,9 @@ Structural Conditions and Sample-efficiency of Posterior Sampling](https://arxiv
 * [Learning Over-Parametrized Two-Layer Neural Networks beyond NTK]()
 * [Kernel and Rich Regimes in Overparametrized Models]()
 * [Learning a Single Neuron with Gradient Methods]()
+* [Learning Two Layer Rectified Neural Networks in Polynomial Time]()
+* [Learning Neural Networks with Two Nonlinear Layers in Polynomial Time]() 
+* [Gradient Descent for One-Hidden-Layer Neural Networks: Polynomial Convergence and SQ Lower Bounds]()
 
 ## Multi-player bandits 
 * [Towards Optimal Algorithms for Multi-Player Bandits without Collision Sensing Information](https://arxiv.org/pdf/2103.13059.pdf)
