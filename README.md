@@ -37,6 +37,7 @@ Structural Conditions and Sample-efficiency of Posterior Sampling](https://arxiv
 * [Precise Tradeoffs in Adversarial Training for Linear Regression]()
 * [Robust causal inference under covariate shift via worst-case subpopulation treatment effects]()
 * [Certifying Some Distributional Robustness with Principled Adversarial Training]()
+* [Importance Tempering: Group Robustness for Overparameterized Models](https://arxiv.org/abs/2209.08745)
 
 ## Neural networks 
 * [On the Approximation Power of Two-Layer Networks of Random ReLUs]()
