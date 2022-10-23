@@ -23,7 +23,8 @@ Structural Conditions and Sample-efficiency of Posterior Sampling](https://arxiv
 * [Provably efficient reinforcement learning with linear function approximation]()
 * [Exploration by Optimisation in Partial Monitoring]()
 * [Efficient and robust algorithms for adversarial linear contextual bandits]()
-* [Tsallis-INF for Decoupled Exploration and Exploitation in Multi-armed Bandits]()
+* [Tsallis-INF for Decoupled Exploration and Exploitation in Multi-armed Bandits]() 
+* [Offline Reinforcement Learning with Realizability and Single-policy Concentrability]()
 
 ## Robustness and Distribution Shifts 
 * [Minimax Regret Optimization for Robust Machine Learning under Distribution Shift](https://arxiv.org/pdf/2202.05436.pdf)
