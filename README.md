@@ -15,5 +15,6 @@
   * [Doubling trick for an unknown horizon](https://arxiv.org/pdf/1803.06971.pdf)
   * [On Explore-Then-Commit Strategies](https://arxiv.org/pdf/1605.08988.pdf)
   * [Double Explore-then-Commit: Asymptotic Optimality and Beyond](https://arxiv.org/pdf/2002.09174.pdf)
+* Arm elimination 
 * UCB algorithm
 
