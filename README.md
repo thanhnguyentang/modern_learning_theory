@@ -18,3 +18,14 @@
 * Arm elimination 
 * UCB algorithm
 
+### RL Theory 
+* **Group reading**
+  * 06/29/23: MDP basic, sample complexity with a generative model (coarse analysis)
+
+* **Paper reading**
+  * [Minimax Regret Bounds for Reinforcement Learning](https://arxiv.org/pdf/1703.05449.pdf)
+  * [Optimistic MLE—A Generic Model-based Algorithm for Partially Observable Sequential Decision Making](https://arxiv.org/pdf/2209.14997.pdf)
+
+
+  
+
