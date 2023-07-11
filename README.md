@@ -20,7 +20,7 @@
 
 ### RL Theory 
 * **Group reading**
-  * 06/29/23: MDP basic, sample complexity with a generative model (coarse analysis)
+  * 06/29/23: MDP basic, sample complexity with a generative model (coarse analysis) [[notes]](https://github.com/thanhnguyentang/modern_learning_theory/blob/master/JHU-RL-Theory-Reading-S23/1_062923-MDP-basics-and-simulator-and-coarse-analysis.pdf)
 
 * **Paper reading**
   * [Minimax Regret Bounds for Reinforcement Learning](https://arxiv.org/pdf/1703.05449.pdf)
