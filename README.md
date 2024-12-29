@@ -1,4 +1,7 @@
-# Modern learning theory 
+# Machine learning theory 
+
+## Interactive learning 
+* [Steven Wu's Algorithmic Foundations of Interactive Learning](https://interactive-learning-algos.github.io/)
 
 ## Basics 
 ### Optimization 
